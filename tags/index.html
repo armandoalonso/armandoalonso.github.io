@@ -2,23 +2,23 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Piranha305 GameDev</title>
+	<title>Tags - Piranha305 GameDev</title>
 
   <!-- Edit site and author settings in `_config.yml` to make the social details your own -->
 
     <meta content="Piranha305 GameDev" property="og:site_name">
   
-    <meta content="Piranha305 GameDev" property="og:title">
+    <meta content="Tags" property="og:title">
   
   
-    <meta content="website" property="og:type">
+    <meta content="article" property="og:type">
   
   
     <meta content="Hey, I am a professional software developer / tester,  I love to do game development in my free time. My favorite game engine is Construct 3.
 " property="og:description">
   
   
-    <meta content="http://localhost:4000/" property="og:url">
+    <meta content="http://localhost:4000/tags/" property="og:url">
   
   
   
@@ -31,10 +31,10 @@
     <meta name="twitter:site" content="@">
     <meta name="twitter:creator" content="@piranha_305">
   
-    <meta name="twitter:title" content="Piranha305 GameDev">
+    <meta name="twitter:title" content="Tags">
   
   
-    <meta name="twitter:url" content="http://localhost:4000/">
+    <meta name="twitter:url" content="http://localhost:4000/tags/">
   
   
     <meta name="twitter:description" content="Hey, I am a professional software developer / tester,  I love to do game development in my free time. My favorite game engine is Construct 3.
@@ -117,31 +117,39 @@
 </aside> <!-- End Sidebar -->
 <div class="content-box clearfix">
   
-<article class="post">
+
+
+<section class="blog-tags">
+  <h1>Tags in Blog</h1>
+  <ul class="tags">
+<!--  cycles through tag list and creates header row of all tags used in site with accompanying per-tag counts...-->
   
-    <a class="post-thumbnail" style="background-image: url(/blog/assets/img/football-video-series.png)" href="/blog/first-blog-post/"></a>
+    <li ><a href="#gamedev" class="tag">gamedev <span>(1)</span></a></li>
   
-  <div class="post-content">
-    <h2 class="post-title"><a href="/blog/first-blog-post/">My First Blog Post</a></h2>
-    <p>This is my first blog. So yeah I started a youtube channel where I will...</p>
-    <span class="post-date">2019, Oct 14&nbsp;&nbsp;&nbsp;—&nbsp;</span>
-    <span class="post-words">2 minute read</span>
-  </div>
-</article>
-
-
-<div class="container">
-  <nav class="pagination" role="pagination">
-    <ul>
-      
-
-      <p><span class="page-number">Page 1 of 1</span></p>
-
-      
-    </ul>
-  </nav>
-</div>
-
+    <li ><a href="#video" class="tag">video <span>(1)</span></a></li>
+  
+  </ul>
+<!--cycles through tag list and creates subheader for each tag name...-->
+  
+  <h2 id="gamedev">gamedev</h2>
+<!--  lists all posts corresponding to specific tag...-->
+    
+    <div class="tag-list">
+        <span><a href="/blog/first-blog-post/">My First Blog Post</a></span>
+        <small><span>| 14 Oct 2019</span></small>
+    </div>
+    
+  
+  <h2 id="video">video</h2>
+<!--  lists all posts corresponding to specific tag...-->
+    
+    <div class="tag-list">
+        <span><a href="/blog/first-blog-post/">My First Blog Post</a></span>
+        <small><span>| 14 Oct 2019</span></small>
+    </div>
+    
+  
+</section>
 
 </div>
 
