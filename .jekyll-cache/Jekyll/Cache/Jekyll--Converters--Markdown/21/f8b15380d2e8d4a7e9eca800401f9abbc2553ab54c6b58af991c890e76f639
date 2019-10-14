@@ -1,9 +1,0 @@
-I"Z<p>This is my first blog. So yeah I started a <a href="https://www.youtube.com/channel/UCxYVUzTKpE8Y1vZMyvV6Xdg">youtube channel</a> where I will be trying to create game development videos. I also started a blog where I can just talk about whatever I want, but i feel like its mostly going to be about game development stuff. In this first post I will talk about the football game i am trying to make and all the system invovled.</p>
-
-<h2 id="football-game-series">Football Game Series</h2>
-
-<p>I had written a prototype for a football game about 2 years ago using GameMaker Studio 2. At the time i was still learning game maker, so the game was very unpolished and buggy. and I had not used Construct yet, and a new version was still in it’s infancy. Over the last couple of month I think construct 3 has imporved a great amount. The addition of scriptting API has been really great. Looking back at some of my old prototypes I wanted to see if I could recreate and improve my football game. Bopth GM2 and C3 are structured in different ways, so it is going to take a bit of paradigm shift to rewrite the core game logic. I plan on documenting my process of creating this football in a seriesof youtube videos and maybe some blog posts? cause why not. I feel like having a sort of commitment will help me actaully finish something, becuase you know finsihing some thing is like the hardest part. I think the youtube videos will also help imrpove my speaking skills, becuase social interaction is not my string suit. maybe talking to myself and recording it will help me talk to others.</p>
-
-<h2 id="systems">Systems</h2>
-
-:ET
