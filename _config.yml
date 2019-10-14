@@ -4,8 +4,8 @@ description: > # this means to ignore newlines until "baseurl:"
     I love to do game development in my free time.
     My favorite game engine is Construct 3.
 permalink: ':title/'
-baseurl: "/blogs" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
