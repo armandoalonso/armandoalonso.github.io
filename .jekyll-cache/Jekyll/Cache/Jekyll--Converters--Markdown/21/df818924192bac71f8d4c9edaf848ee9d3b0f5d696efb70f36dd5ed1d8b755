@@ -1,4 +1,4 @@
-I"T	<p>This is my first blog. So yeah I started a <a href="https://www.youtube.com/channel/UCxYVUzTKpE8Y1vZMyvV6Xdg">youtube channel</a> where I will be trying to create game development videos. I also started a blog where I can just talk about whatever I want, but i feel like its mostly going to be about game development stuff. In this first post I will talk about the football game i am trying to make and all the system invovled.</p>
+I"U	<p>This is my first blog. So yeah I started a <a href="https://www.youtube.com/channel/UCxYVUzTKpE8Y1vZMyvV6Xdg">youtube channel</a> where I will be trying to create game development videos. I also started a blog where I can just talk about whatever I want, but i feel like its mostly going to be about game development stuff. In this first post I will talk about the football game i am trying to make and all the system invovled.</p>
 
 <h2 id="football-game-series">Football Game Series</h2>
 
@@ -16,7 +16,7 @@
   <li>Player Stat System</li>
 </ul>
 
-<p><img src="/blog/assets/img/football_playdesigner.gif" alt="Designing Football Plays" /></p>
+<p><img src="/blogs/assets/img/football_playdesigner.gif" alt="Designing Football Plays" /></p>
 
 <p>I am not sure how much of it is scope creep, but i atleast want to create a simple but complete football experince. The goal is to be able to design the plays how you want. then call hike, and try and throw the ball to an open receiver. the thing is football is a pretty complicated sport so i have to find ways to abstract some of the complicated systems out.</p>
 :ET
